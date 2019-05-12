@@ -1,0 +1,74 @@
+[
+    {
+        "id": 1,
+        "name": "Boston Terrier",
+        "image": "/images/bostonterrier.jpg",
+        "count": 0
+    },
+    {
+        "id": 2,
+        "name": "Bull Terrier",
+        "image": "/images/bullterrier.jpg",
+        "count": 0
+    },
+    {
+        "id": 3,
+        "name": "Corgi",
+        "image": "/images/corgi.jpg",
+        "count": 0
+    },
+    {
+        "id": 4,
+        "name": "Dalmatian",
+        "image": "/images/dalmatian.jpg",
+        "count": 0
+    },
+    {
+        "id": 5,
+        "name": "Doberman",
+        "image": "/images/doberman.jpg",
+        "count": 0
+    },
+    {
+        "id": 6,
+        "name": "French Bulldog",
+        "image": "/images/frenchbulldog.jpg",
+        "count": 0
+    },
+    {
+        "id": 7,
+        "name": "Highland Terrier",
+        "image": "/images/highlandterrier.jpg",
+        "count": 0
+    },
+    {
+        "id": 8,
+        "name": "Jack Russel",
+        "image": "/images/jackrussel.jpg",
+        "count": 0
+    },
+    {
+        "id": 9,
+        "name": "Poodle",
+        "image": "/images/poodle.jpg",
+        "count": 0
+    },
+    {
+        "id": 10,
+        "name": "pug",
+        "image": "/images/pug.jpg",
+        "count": 0
+    },
+    {
+        "id": 11,
+        "name": "Schnauzer",
+        "image": "/images/schnauzer.jpg",
+        "count": 0
+    },
+    {
+        "id": 12,
+        "name": "Shiba",
+        "image": "/images/shiba.jpg",
+        "count": 0
+    }
+]

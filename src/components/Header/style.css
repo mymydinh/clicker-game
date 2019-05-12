@@ -1,0 +1,10 @@
+
+.title, .score, .message {
+    text-align: center;
+    color: white;
+}
+
+.header-container {
+    background-color: #788EA3;
+    padding: 1rem;
+}
